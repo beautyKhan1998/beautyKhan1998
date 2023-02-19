@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Beauty Khan
 - 👀 I’m interested in Cloud Developement
-- 🌱 I’m currently learning Azure Cloud
+- 🌱 I’m currently learning Aws Cloud
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/beauty-khan-26b970141/) 
 
